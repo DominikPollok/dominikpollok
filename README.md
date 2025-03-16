@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dominik! 👋</h1>
 <p align="center">
   <a href="https://dominikpollok.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dominik-pollok-958656225/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dominik-pollok-958656225/">LinkedIn</a> 
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🚀 Current & Recent Projects
 - 🤝 - GrowFlow - A lightweight, performance-oriented CRM platform (In Progress)
 - 🏦 - Stocksight - A Stock Market Prediction Tool, designed to further extend my ML skills (In Progress)
-- ⏳ [Clockwise](https://github.com/intuitive-robots/pse-ss24-timetrack) – A Time Tracking App for Research Assistants
+- ⏳ - [Clockwise](https://github.com/intuitive-robots/pse-ss24-timetrack) – A Time Tracking App for Research Assistants
 - ➕ Many more <a href="https://dominikpollok.com">HERE</a> •
 
 ---
