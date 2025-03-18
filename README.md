@@ -47,4 +47,3 @@
 ### 📊 GitHub Stats
 ![DominikPollok's Stats](https://github-readme-stats.vercel.app/api?username=DominikPollok&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![DominikPollok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominikPollok&theme=dark&hide_border=true)
